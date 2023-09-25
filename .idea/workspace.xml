@@ -5,29 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b04360b0-3114-433c-8898-b84f94f2958a" name="Changes" comment="latest">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Arithmetic-Operators.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Arrays.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/BooleanOperator.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Booleans-Null.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Booleans.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/BreakContinue.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/DoWhile.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Foreach.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/FunctionsParameters&amp;Arguments.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Ifelse.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Ifs-like-ternary-operator.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/IncOperators.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Lists.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ListsDestructuring.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/LoopIndices.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Loops.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/LoopsRange.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/LoopsString.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/MutableList.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Strings.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/WhenExpressionStatement.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/WhileLoop.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/math-operator.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/AbstractClass.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ObjectDec&amp;Exp.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Overriding.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Polymorphism.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Polymorphism2.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,49 +36,49 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.17",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "android.project.structure"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.17&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;android.project.structure&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Kotlin.FunctionsParameters_ArgumentsKt">
-    <configuration name="ArraysKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArraysKt" />
+}</component>
+  <component name="RunManager" selected="Kotlin.ObjectDec_ExpKt">
+    <configuration name="AbstractClassKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AbstractClassKt" />
       <module name="KotlinPractice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BooleansKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BooleansKt" />
+    <configuration name="ObjectDec_ExpKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ObjectDec_ExpKt" />
       <module name="KotlinPractice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BreakContinueKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BreakContinueKt" />
+    <configuration name="OverridingKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OverridingKt" />
       <module name="KotlinPractice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FunctionsParameters_ArgumentsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FunctionsParameters_ArgumentsKt" />
+    <configuration name="Polymorphism2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Polymorphism2Kt" />
       <module name="KotlinPractice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IfelseKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IfelseKt" />
+    <configuration name="PolymorphismKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PolymorphismKt" />
       <module name="KotlinPractice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -104,11 +86,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.FunctionsParameters_ArgumentsKt" />
-        <item itemvalue="Kotlin.BreakContinueKt" />
-        <item itemvalue="Kotlin.ArraysKt" />
-        <item itemvalue="Kotlin.IfelseKt" />
-        <item itemvalue="Kotlin.BooleansKt" />
+        <item itemvalue="Kotlin.ObjectDec_ExpKt" />
+        <item itemvalue="Kotlin.AbstractClassKt" />
+        <item itemvalue="Kotlin.Polymorphism2Kt" />
+        <item itemvalue="Kotlin.OverridingKt" />
+        <item itemvalue="Kotlin.PolymorphismKt" />
       </list>
     </recent_temporary>
   </component>
@@ -135,7 +117,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690232545951</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="latest">
+      <created>1695329976654</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1695329976654</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
